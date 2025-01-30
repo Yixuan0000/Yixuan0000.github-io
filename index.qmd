@@ -5,3 +5,5 @@ title: "Yixuan Yang"
 This is a Quarto website.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+[./images/Dog pic.jpg]{width-"75%" fig-align-"center"}
