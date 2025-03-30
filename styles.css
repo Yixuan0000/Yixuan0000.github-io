@@ -32,3 +32,17 @@
     max-height: calc(100vh - 80px); /* Prevents bottom cutoff */
     overflow-y: auto; /* Scrollable if needed */
   }
+  .card {
+    width: 50%;
+    height: auto; /* Allows the card to grow with content */
+    overflow: visible; /* Prevents scrolling */
+    text-align: center; /* Centers text inside the card */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Optional: adds a subtle shadow */
+  }
+  
+  /* Ensure the image inside the card scales properly */
+  .card img {
+    max-width: 100%; /* Ensures the image doesn’t overflow the card */
+    height: auto; /* Maintains aspect ratio */
+  }
+  

@@ -1,8 +1,8 @@
 ---
-title: "Yixuan Yang"
+title: "Hi, I am Yixuan Yang"
 ---
 
-This is my personal portfolio
+Startup Entrepreneur | 3D Artist | Project Manager | Multimedia Specialist | Data Analyst
 
 ![](images/dogpic.jpg){width=75% fig-align="center"}
 
@@ -10,39 +10,27 @@ This is my personal portfolio
 
 :::: {.columns}
 ::: {.column width="40%"}
-![Profile Picture](images/Dogpic.jpg)
+![](images/dogpic.jpg)
 :::
 
 ::: {.column width="60%"}
-# About Me
 
-I am a Yixuan Yang.
+I am a former owner of a business that hosted in-person Murder Mystery Games, an animator who worked on the game Yolked at Hard Boiled Studio, and a current MS student in Global Marketing Management at Boston University. 
+
+I have a BS degree in Animation from Drexel University, and I have a passion for creating engaging and immersive experiences for different audiences, using a variety of skills and tools, such as Marketing Technology, 3D creation tools, and post-processing.
+
+I am motivated by the challenge and opportunity to create innovative and captivating products and projects that can reach and delight a global audience. I believe I can bring diverse perspectives and experiences to the team, as well as a strong work ethic and a creative mindset.
 :::
 ::::
 
 # Projects {#projects}
+<div class="project-section text-center">
+  <img src="/images/project1.png" alt="Project 1" style="max-width: 50%; height: auto; margin-bottom: 20px;">
 
-:::: {.columns}
-::: {.column width="50%"}
-::: {.card}
-![Project 1](images/Dogpic.jpg)
+  **Project 1**
 
-**Project 1**
-
-Description of project 1. [Link to project](https://link.to/project1)
-:::
-:::
-
-::: {.column width="50%"}
-::: {.card}
-![Project 2](images/Dogpic.jpg)
-
-**Project 2**
-
-Description of project 2. [Link to project](https://link.to/project2)
-:::
-:::
-::::
+  <p>Exploration on how job seekers can position themselves effectively given changes in hiring trends, salaries, AI adoption, remote work, and gender-based employment patterns. [Link to project](https://yixuan0000.github.io/AD688_Group5.github.io/)</p>
+</div>
 
 # CV {#cv}
 
