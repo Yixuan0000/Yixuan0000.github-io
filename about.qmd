@@ -1,5 +1,15 @@
 ---
-title: "About"
+title: "About Me"
 ---
 
-About this site
+:::: {.columns}
+::: {.column width="40%"}
+![Profile Picture](images/Dogpic.jpg)
+:::
+
+::: {.column width="60%"}
+# About Me
+
+I am a Yixuan Yang.
+:::
+::::

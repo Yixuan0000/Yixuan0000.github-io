@@ -1,0 +1,27 @@
+---
+title: "Projects"
+---
+
+# Projects
+
+:::: {.columns}
+::: {.column width="50%"}
+::: {.card}
+![Project 1](images/Dogpic.jpg)
+
+**Project 1**
+
+Description of project 1. [Link to project](https://link.to/project1)
+:::
+:::
+
+::: {.column width="50%"}
+::: {.card}
+![Project 2](images/Dogpic.jpg)
+
+**Project 2**
+
+Description of project 2. [Link to project](https://link.to/project2)
+:::
+:::
+::::
