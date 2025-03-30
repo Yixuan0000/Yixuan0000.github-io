@@ -1,8 +1,0 @@
----
-title: "Contact"
----
-
-
-- 📧 [yy486@bu.edu](mailto:yy486@bu.edu)
-- 🔗 [LinkedIn](www.linkedin.com/in/yixuanyang98)
-- 🐙 [GitHub](https://github.com/Yixuan0000/Yixuan0000.github-io)
