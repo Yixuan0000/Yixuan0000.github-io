@@ -6,20 +6,33 @@ website:
   navbar:
     left:
       - text: About Me
-        href: about.qmd
+        href: index.qmd#about
       - text: Projects
-        href: projects.qmd
+        href: index.qmd#project
       - text: CV
-        href: cv.qmd
+        href: index.qmd#cv
       - text: Contact
-        href: contact.qmd
-      
+        href: index.qmd#contact
+    right:
+      - href: "mailto:yy486@bu.edu"
+        icon: envelope
+        target: _blank
+      - href: "https://www.linkedin.com/in/yixuanyang98"
+        icon: linkedin
+        target: _blank
+      - href: "https://github.com/Yixuan0000"
+        icon: github
+        target: _blank
+
+  search: false
 
 format:
   html:
     theme:
       - cosmo
       - brand
+    page-head:
+      - '<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw==" crossorigin="anonymous" referrerpolicy="no-referrer" />'
     css: styles.css
     toc: true
 

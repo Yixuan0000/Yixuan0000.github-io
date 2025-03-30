@@ -5,3 +5,55 @@ title: "Yixuan Yang"
 This is my personal portfolio
 
 ![](images/dogpic.jpg){width=75% fig-align="center"}
+
+# About Me {#about}
+
+:::: {.columns}
+::: {.column width="40%"}
+![Profile Picture](images/Dogpic.jpg)
+:::
+
+::: {.column width="60%"}
+# About Me
+
+I am a Yixuan Yang.
+:::
+::::
+
+# Projects {#projects}
+
+:::: {.columns}
+::: {.column width="50%"}
+::: {.card}
+![Project 1](images/Dogpic.jpg)
+
+**Project 1**
+
+Description of project 1. [Link to project](https://link.to/project1)
+:::
+:::
+
+::: {.column width="50%"}
+::: {.card}
+![Project 2](images/Dogpic.jpg)
+
+**Project 2**
+
+Description of project 2. [Link to project](https://link.to/project2)
+:::
+:::
+::::
+
+# CV {#cv}
+
+Here is my resume:
+
+<embed src="files/Resume.pdf" width="100%" height="600px" type="application/pdf">
+
+[Download PDF](files/Resume.pdf)
+
+# Contact {#contact}
+
+- 📧 [yy486@bu.edu](mailto:yy486@bu.edu)
+- 🔗 [LinkedIn](www.linkedin.com/in/yixuanyang98)
+- 🐙 [GitHub](https://github.com/Yixuan0000/Yixuan0000.github-io)
