@@ -1,0 +1,17 @@
+{
+  "contact.qmd": {
+    "contact.html": "2214532b"
+  },
+  "projects.qmd": {
+    "projects.html": "d35c66cd"
+  },
+  "index.qmd": {
+    "index.html": "1185a8ec"
+  },
+  "about.qmd": {
+    "about.html": "40d53cf7"
+  },
+  "cv.qmd": {
+    "cv.html": "bab1cfbc"
+  }
+}
