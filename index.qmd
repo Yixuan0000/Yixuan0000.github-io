@@ -40,9 +40,10 @@ I am motivated by the challenge and opportunity to create innovative and captiva
 **Project 2**
 
 The analysis on Sunset Part, New York. 
-:::
-:::
+[PDF file](files/%20AD571_Project.pdf)
 
+:::
+:::
 ::: {.column width="50%"}
 ::: {.card}
 ![](images/Dogpic.jpg)
