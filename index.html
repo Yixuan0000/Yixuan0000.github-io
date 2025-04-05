@@ -121,7 +121,11 @@ ul.task-list li input[type="checkbox"] {
    
   <ul>
   <li><a href="#about" id="toc-about" class="nav-link active" data-scroll-target="#about">About Me</a></li>
-  <li><a href="#projects" id="toc-projects" class="nav-link" data-scroll-target="#projects">Projects</a></li>
+  <li><a href="#projects" id="toc-projects" class="nav-link" data-scroll-target="#projects">Projects</a>
+  <ul class="collapse">
+  <li><a href="#project-1" id="toc-project-1" class="nav-link" data-scroll-target="#project-1">Project 1</a></li>
+  <li><a href="#other-projects" id="toc-other-projects" class="nav-link" data-scroll-target="#other-projects">Other Projects</a></li>
+  </ul></li>
   <li><a href="#cv" id="toc-cv" class="nav-link" data-scroll-target="#cv">CV</a></li>
   <li><a href="#contact" id="toc-contact" class="nav-link" data-scroll-target="#contact">Contact</a></li>
   </ul>
@@ -169,13 +173,41 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="projects" class="level1">
 <h1>Projects</h1>
+<section id="project-1" class="level2">
+<h2 class="anchored" data-anchor-id="project-1">Project 1</h2>
 <div class="project-section text-center">
-<p><img src="./images/project1.png" alt="Project 1" style="max-width: 50%; height: auto; margin-bottom: 20px;"></p>
-<p><strong>Project 1</strong></p>
+<p><iframe src="https://yixuan0000.github.io/AD688_Group5.github.io/eda" style="width: 100%; height: 600px; border: none;"></iframe></p>
 <p>
-Exploration on how job seekers can position themselves effectively given changes in hiring trends, salaries, AI adoption, remote work, and gender-based employment patterns. <a href="https://yixuan0000.github.io/AD688_Group5.github.io/">Link to project</a>
+Exploration on how job seekers can position themselves effectively given changes in hiring trends, salaries, AI adoption, remote work, and gender-based employment patterns.
 </p>
 </div>
+</section>
+<section id="other-projects" class="level2">
+<h2 class="anchored" data-anchor-id="other-projects">Other Projects</h2>
+<div class="columns">
+<div class="column" style="width:50%;">
+<div class="project-section">
+<object data="files/AD571.pdf" type="application/pdf" width="100%" height="300px"> <a href="files/AD571.pdf">Download the PDF</a>.
+<p></p>
+<p></p></object><p></p>
+<p><strong>Project 2: Real Estate Market Analysis in Sunset Park, Brooklyn</strong></p>
+<p>
+This project dove into real estate sales data from Sunset Park, Brooklyn, a vibrant South Brooklyn neighborhood with easy Manhattan access and a diverse population. By analyzing sale prices, property types, and trends, I uncovered a thriving market with rising prices and sales volume. Clustering techniques revealed distinct property segments, from smaller family homes to luxury and commercial units, with residential properties dominating the landscape. I also forecasted future sale prices and counts, signaling a bright outlook for the area. The analysis highlighted Sunset Park’s growth potential as an investment hotspot, tempered by limited commercial development—a key consideration for future planning.
+</p>
+</div>
+</div><div class="column" style="width:50%;">
+<div class="project-section">
+<object data="files/JP_Licks_Analysis.pdf" type="application/pdf" width="100%" height="300px"> <a href="files/JP_Licks_Analysis.pdf">Download the PDF</a>.
+<p></p>
+<p></p></object><p></p>
+<p><strong>Project 3: Yelp Review Analysis for J.P. Licks</strong></p>
+<p>
+In this project, I explored customer sentiment by analyzing Yelp reviews from four J.P. Licks ice cream stores in the Boston area: Assembly Row, Cambridge, Charles Street, and One Brigham Circle. Using natural language processing and sentiment analysis with TextBlob, I discovered that 77% of the 200 collected reviews were positive, reflecting strong customer satisfaction overall. However, sentiment varied across locations—Assembly Row showed more mixed feedback, while Cambridge boasted the highest positivity. Key insights included frequent praise for taste and variety, leading to actionable recommendations: enhance service consistency, especially at Assembly Row, leverage positive buzzwords like “great” and “love” in marketing, and gather ongoing product feedback to boost engagement and refine offerings.
+</p>
+</div>
+</div>
+</div>
+</section>
 </section>
 <section id="cv" class="level1">
 <h1>CV</h1>

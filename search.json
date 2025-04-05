@@ -11,7 +11,21 @@
     "href": "index.html",
     "title": "Hi, I am Yixuan Yang",
     "section": "",
-    "text": "Startup Entrepreneur | 3D Artist | Project Manager | Multimedia Specialist | Data Analyst\n\n\n\n\n\n\nAbout Me\n\n\n\n\nI am a former owner of a business that hosted in-person Murder Mystery Games, an animator who worked on the game Yolked at Hard Boiled Studio, and a current MS student in Global Marketing Management at Boston University.\nI have a BS degree in Animation from Drexel University, and I have a passion for creating engaging and immersive experiences for different audiences, using a variety of skills and tools, such as Marketing Technology, 3D creation tools, and post-processing.\nI am motivated by the challenge and opportunity to create innovative and captivating products and projects that can reach and delight a global audience. I believe I can bring diverse perspectives and experiences to the team, as well as a strong work ethic and a creative mindset.\n\n\n\n\nProjects\n\n\nProject 1\n\nExploration on how job seekers can position themselves effectively given changes in hiring trends, salaries, AI adoption, remote work, and gender-based employment patterns. Link to project\n\n\n\n\nCV\nHere is my resume:\n\nDownload PDF\n\n\nContact\n\n📧 yy486@bu.edu\n🔗 LinkedIn\n🐙 GitHub"
+    "text": "Startup Entrepreneur | 3D Artist | Project Manager | Multimedia Specialist | Data Analyst"
+  },
+  {
+    "objectID": "index.html#project-1",
+    "href": "index.html#project-1",
+    "title": "Hi, I am Yixuan Yang",
+    "section": "Project 1",
+    "text": "Project 1\n\n\n\nExploration on how job seekers can position themselves effectively given changes in hiring trends, salaries, AI adoption, remote work, and gender-based employment patterns."
+  },
+  {
+    "objectID": "index.html#other-projects",
+    "href": "index.html#other-projects",
+    "title": "Hi, I am Yixuan Yang",
+    "section": "Other Projects",
+    "text": "Other Projects\n\n\n\n Download the PDF.\n\n\nProject 2: Real Estate Market Analysis in Sunset Park, Brooklyn\n\nThis project dove into real estate sales data from Sunset Park, Brooklyn, a vibrant South Brooklyn neighborhood with easy Manhattan access and a diverse population. By analyzing sale prices, property types, and trends, I uncovered a thriving market with rising prices and sales volume. Clustering techniques revealed distinct property segments, from smaller family homes to luxury and commercial units, with residential properties dominating the landscape. I also forecasted future sale prices and counts, signaling a bright outlook for the area. The analysis highlighted Sunset Park’s growth potential as an investment hotspot, tempered by limited commercial development—a key consideration for future planning.\n\n\n\n\n Download the PDF.\n\n\nProject 3: Yelp Review Analysis for J.P. Licks\n\nIn this project, I explored customer sentiment by analyzing Yelp reviews from four J.P. Licks ice cream stores in the Boston area: Assembly Row, Cambridge, Charles Street, and One Brigham Circle. Using natural language processing and sentiment analysis with TextBlob, I discovered that 77% of the 200 collected reviews were positive, reflecting strong customer satisfaction overall. However, sentiment varied across locations—Assembly Row showed more mixed feedback, while Cambridge boasted the highest positivity. Key insights included frequent praise for taste and variety, leading to actionable recommendations: enhance service consistency, especially at Assembly Row, leverage positive buzzwords like “great” and “love” in marketing, and gather ongoing product feedback to boost engagement and refine offerings."
   },
   {
     "objectID": "contact.html",

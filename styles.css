@@ -45,3 +45,24 @@
     max-width: 100%; /* Ensures the image doesn’t overflow the card */
     height: auto; /* Maintains aspect ratio */
   }
+  
+/* New styles for the divider */
+.columns.with-divider {
+  position: relative;
+  display: flex;
+  justify-content: space-between;
+}
+
+.columns.with-divider .column {
+  position: relative;
+}
+
+.columns.with-divider .column:first-child::after {
+  content: '';
+  position: absolute;
+  right: -10px; /* Adjust this value to control the divider's position */
+  top: 0;
+  height: 100%;
+  width: 2px; /* Thickness of the divider */
+  background-color: #ccc; /* Color of the divider */
+}  
