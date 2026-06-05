@@ -4,24 +4,81 @@ title: "Projects"
 
 # Projects
 
+A mix of data analysis, backend engineering, and automation systems built during graduate study and entrepreneurial ventures.
+
+---
+
+## Job Market Analysis for Marketing Professionals
+
+**Type:** Data Analysis / Machine Learning | **Tools:** Python, R, Quarto, sklearn
+
+Group research project exploring how job seekers can position themselves effectively given changes in hiring trends, salaries, AI adoption, remote work, and gender-based employment patterns. Covers data cleaning, EDA, NLP text analysis, and ML methods on real job posting datasets.
+
+[View Live Site](https://yixuan0000.github.io/AD688_Group5.github.io/) | [GitHub](https://github.com/Yixuan0000/AD688_Group5.github.io)
+
+---
+
+## WYD Broker — Automated Freight Quoting Service
+
+**Type:** Backend Microservice | **Tools:** Python, FastAPI, SMTP/IMAP, Railway
+
+A lightweight Railway microservice that bridges a database sheet to freight brokers via email. Sends quote requests, tracks replies over IMAP, and writes results back to the database — fully automated.
+
+Key endpoints: `POST /send-quote`, `POST /fetch-replies`, `GET /health`
+
+[GitHub](https://github.com/Yixuan0000/WYD_Broker)
+
+---
+
+## Price Quoting Bot — WeCom × n8n Automation
+
+**Type:** Automation System | **Tools:** Node.js, n8n, Railway, WeCom API
+
+End-to-end quote automation pipeline: a WeCom bot receives messages via long-link SDK, a Railway bridge routes them to n8n, and n8n applies configurable pricing rules from Excel and returns a quoted price — all without human intervention.
+
+[GitHub](https://github.com/Yixuan0000/Price_quoting)
+
+---
+
+## Wecom-verify — WeCom Callback Reverse Proxy
+
+**Type:** Infrastructure / DevOps | **Tools:** Node.js, Railway
+
+A minimal always-on reverse proxy that forwards WeCom enterprise callback traffic (URL verification and message events) to an n8n webhook, keeping enterprise integrations clean and decoupled.
+
+[GitHub](https://github.com/Yixuan0000/Wecom-verify)
+
+---
+
+## Build Project 2025 — Weekly Engineering Exercises
+
+**Type:** Learning Portfolio | **Tools:** Mixed (varies by week)
+
+A weekly series of build exercises covering a range of engineering and data topics.
+
+[GitHub](https://github.com/Yixuan0000/Build_Project_2025)
+
+---
+
+## Academic Projects
+
 :::: {.columns}
 ::: {.column width="50%"}
 ::: {.card}
-![Project 1](images/Dogpic.jpg)
+**Sunset Park, New York — Urban Analysis**
 
-**Project 1**
+A data-driven neighborhood analysis project.
 
-Description of project 1. [Link to project](https://link.to/project1)
+[PDF Report](files/%20AD571_Project.pdf)
 :::
 :::
-
 ::: {.column width="50%"}
 ::: {.card}
-![Project 2](images/Dogpic.jpg)
+**JP Licks Yelp Sentiment Analysis**
 
-**Project 2**
+Yelp review scraping and sentiment analysis on a Boston ice cream shop.
 
-Description of project 2. [Link to project](https://link.to/project2)
+[PDF Report](files/JP_Licks_Analysis.pdf)
 :::
 :::
 ::::
