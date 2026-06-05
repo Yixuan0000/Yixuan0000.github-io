@@ -72,11 +72,11 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./index.html#about"> 
+    <a class="nav-link active" href="./about.html" aria-current="page"> 
 <span class="menu-text">About Me</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./index.html#project"> 
+    <a class="nav-link" href="./projects.html"> 
 <span class="menu-text">Projects</span></a>
   </li>  
   <li class="nav-item">
@@ -115,8 +115,15 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#education" id="toc-education" class="nav-link active" data-scroll-target="#education">Education</a></li>
+  <li><a href="#skills" id="toc-skills" class="nav-link" data-scroll-target="#skills">Skills</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -142,21 +149,59 @@ ul.task-list li input[type="checkbox"] {
 
 <div class="columns">
 <div class="column" style="width:40%;">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="images/Dogpic.jpg" class="img-fluid figure-img"></p>
-<figcaption>Profile Picture</figcaption>
-</figure>
-</div>
+<p><img src="images/dogpic.jpg" class="img-fluid"></p>
 </div><div class="column" style="width:60%;">
-<section id="about-me" class="level1">
-<h1>About Me</h1>
-<p>I am a Yixuan Yang.</p>
+<section id="yixuan-yang" class="level2">
+<h2 class="anchored" data-anchor-id="yixuan-yang">Yixuan Yang</h2>
+<p>Startup Entrepreneur | 3D Artist | Project Manager | Multimedia Specialist | Data Analyst</p>
+<p>I am a former owner of a business that hosted in-person Murder Mystery Games, an animator who worked on the game <em>Yolked</em> at Hard Boiled Studio, and a current MS student in Global Marketing Management at Boston University.</p>
+<p>I hold a BS degree in Animation from Drexel University, and I have a passion for creating engaging and immersive experiences for different audiences using a variety of skills and tools, such as Marketing Technology, 3D creation tools, and data analysis.</p>
+<p>I am motivated by the challenge and opportunity to create innovative and captivating products and projects that can reach and delight a global audience.</p>
 </section>
 </div>
 </div>
+<section id="education" class="level2">
+<h2 class="anchored" data-anchor-id="education">Education</h2>
+<ul>
+<li><strong>MS, Global Marketing Management</strong> — Boston University <em>(in progress)</em></li>
+<li><strong>BS, Animation</strong> — Drexel University</li>
+</ul>
+</section>
+<section id="skills" class="level2">
+<h2 class="anchored" data-anchor-id="skills">Skills</h2>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th>Category</th>
+<th>Tools &amp; Technologies</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Programming</td>
+<td>Python, JavaScript, R</td>
+</tr>
+<tr class="even">
+<td>Backend / Automation</td>
+<td>FastAPI, n8n, Railway, Node.js</td>
+</tr>
+<tr class="odd">
+<td>Data Analysis</td>
+<td>Pandas, ggplot2, ML (sklearn)</td>
+</tr>
+<tr class="even">
+<td>3D &amp; Creative</td>
+<td>Blender, Maya, After Effects</td>
+</tr>
+<tr class="odd">
+<td>Marketing Tech</td>
+<td>HubSpot, Quarto, SEO</td>
+</tr>
+</tbody>
+</table>
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -249,7 +294,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp("https:\/\/Yixuan0000\.github\.io\/Yixuan0000\.github-io\/");
+      var filterRegex = new RegExp('/' + window.location.host + '/');
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }

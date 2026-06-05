@@ -25,13 +25,76 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Projects\n\n\n\n\n\n\nProject 1\n\n\nProject 1\nDescription of project 1. Link to project\n\n\n\n\n\n\nProject 2\n\n\nProject 2\nDescription of project 2. Link to project"
+    "text": "A mix of data analysis, backend engineering, and automation systems built during graduate study and entrepreneurial ventures.\n\n\n\nType: Data Analysis / Machine Learning | Tools: Python, R, Quarto, sklearn\nGroup research project exploring how job seekers can position themselves effectively given changes in hiring trends, salaries, AI adoption, remote work, and gender-based employment patterns. Covers data cleaning, EDA, NLP text analysis, and ML methods on real job posting datasets.\nView Live Site | GitHub\n\n\n\n\nType: Backend Microservice | Tools: Python, FastAPI, SMTP/IMAP, Railway\nA lightweight Railway microservice that bridges a database sheet to freight brokers via email. Sends quote requests, tracks replies over IMAP, and writes results back to the database — fully automated.\nKey endpoints: POST /send-quote, POST /fetch-replies, GET /health\nGitHub\n\n\n\n\nType: Automation System | Tools: Node.js, n8n, Railway, WeCom API\nEnd-to-end quote automation pipeline: a WeCom bot receives messages via long-link SDK, a Railway bridge routes them to n8n, and n8n applies configurable pricing rules from Excel and returns a quoted price — all without human intervention.\nGitHub\n\n\n\n\nType: Infrastructure / DevOps | Tools: Node.js, Railway\nA minimal always-on reverse proxy that forwards WeCom enterprise callback traffic (URL verification and message events) to an n8n webhook, keeping enterprise integrations clean and decoupled.\nGitHub\n\n\n\n\nType: Learning Portfolio | Tools: Mixed (varies by week)\nA weekly series of build exercises covering a range of engineering and data topics.\nGitHub\n\n\n\n\n\n\n\nSunset Park, New York — Urban Analysis\nA data-driven neighborhood analysis project.\nPDF Report\n\n\n\nJP Licks Yelp Sentiment Analysis\nYelp review scraping and sentiment analysis on a Boston ice cream shop.\nPDF Report"
+  },
+  {
+    "objectID": "projects.html#job-market-analysis-for-marketing-professionals",
+    "href": "projects.html#job-market-analysis-for-marketing-professionals",
+    "title": "Projects",
+    "section": "",
+    "text": "Type: Data Analysis / Machine Learning | Tools: Python, R, Quarto, sklearn\nGroup research project exploring how job seekers can position themselves effectively given changes in hiring trends, salaries, AI adoption, remote work, and gender-based employment patterns. Covers data cleaning, EDA, NLP text analysis, and ML methods on real job posting datasets.\nView Live Site | GitHub"
+  },
+  {
+    "objectID": "projects.html#wyd-broker-automated-freight-quoting-service",
+    "href": "projects.html#wyd-broker-automated-freight-quoting-service",
+    "title": "Projects",
+    "section": "",
+    "text": "Type: Backend Microservice | Tools: Python, FastAPI, SMTP/IMAP, Railway\nA lightweight Railway microservice that bridges a database sheet to freight brokers via email. Sends quote requests, tracks replies over IMAP, and writes results back to the database — fully automated.\nKey endpoints: POST /send-quote, POST /fetch-replies, GET /health\nGitHub"
+  },
+  {
+    "objectID": "projects.html#price-quoting-bot-wecom-n8n-automation",
+    "href": "projects.html#price-quoting-bot-wecom-n8n-automation",
+    "title": "Projects",
+    "section": "",
+    "text": "Type: Automation System | Tools: Node.js, n8n, Railway, WeCom API\nEnd-to-end quote automation pipeline: a WeCom bot receives messages via long-link SDK, a Railway bridge routes them to n8n, and n8n applies configurable pricing rules from Excel and returns a quoted price — all without human intervention.\nGitHub"
+  },
+  {
+    "objectID": "projects.html#wecom-verify-wecom-callback-reverse-proxy",
+    "href": "projects.html#wecom-verify-wecom-callback-reverse-proxy",
+    "title": "Projects",
+    "section": "",
+    "text": "Type: Infrastructure / DevOps | Tools: Node.js, Railway\nA minimal always-on reverse proxy that forwards WeCom enterprise callback traffic (URL verification and message events) to an n8n webhook, keeping enterprise integrations clean and decoupled.\nGitHub"
+  },
+  {
+    "objectID": "projects.html#build-project-2025-weekly-engineering-exercises",
+    "href": "projects.html#build-project-2025-weekly-engineering-exercises",
+    "title": "Projects",
+    "section": "",
+    "text": "Type: Learning Portfolio | Tools: Mixed (varies by week)\nA weekly series of build exercises covering a range of engineering and data topics.\nGitHub"
+  },
+  {
+    "objectID": "projects.html#academic-projects",
+    "href": "projects.html#academic-projects",
+    "title": "Projects",
+    "section": "",
+    "text": "Sunset Park, New York — Urban Analysis\nA data-driven neighborhood analysis project.\nPDF Report\n\n\n\nJP Licks Yelp Sentiment Analysis\nYelp review scraping and sentiment analysis on a Boston ice cream shop.\nPDF Report"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About Me",
     "section": "",
-    "text": "Profile Picture\n\n\n\n\nAbout Me\nI am a Yixuan Yang."
+    "text": "Startup Entrepreneur | 3D Artist | Project Manager | Multimedia Specialist | Data Analyst\nI am a former owner of a business that hosted in-person Murder Mystery Games, an animator who worked on the game Yolked at Hard Boiled Studio, and a current MS student in Global Marketing Management at Boston University.\nI hold a BS degree in Animation from Drexel University, and I have a passion for creating engaging and immersive experiences for different audiences using a variety of skills and tools, such as Marketing Technology, 3D creation tools, and data analysis.\nI am motivated by the challenge and opportunity to create innovative and captivating products and projects that can reach and delight a global audience."
+  },
+  {
+    "objectID": "about.html#yixuan-yang",
+    "href": "about.html#yixuan-yang",
+    "title": "About Me",
+    "section": "",
+    "text": "Startup Entrepreneur | 3D Artist | Project Manager | Multimedia Specialist | Data Analyst\nI am a former owner of a business that hosted in-person Murder Mystery Games, an animator who worked on the game Yolked at Hard Boiled Studio, and a current MS student in Global Marketing Management at Boston University.\nI hold a BS degree in Animation from Drexel University, and I have a passion for creating engaging and immersive experiences for different audiences using a variety of skills and tools, such as Marketing Technology, 3D creation tools, and data analysis.\nI am motivated by the challenge and opportunity to create innovative and captivating products and projects that can reach and delight a global audience."
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About Me",
+    "section": "Education",
+    "text": "Education\n\nMS, Global Marketing Management — Boston University (in progress)\nBS, Animation — Drexel University"
+  },
+  {
+    "objectID": "about.html#skills",
+    "href": "about.html#skills",
+    "title": "About Me",
+    "section": "Skills",
+    "text": "Skills\n\n\n\nCategory\nTools & Technologies\n\n\n\n\nProgramming\nPython, JavaScript, R\n\n\nBackend / Automation\nFastAPI, n8n, Railway, Node.js\n\n\nData Analysis\nPandas, ggplot2, ML (sklearn)\n\n\n3D & Creative\nBlender, Maya, After Effects\n\n\nMarketing Tech\nHubSpot, Quarto, SEO"
   }
 ]
