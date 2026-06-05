@@ -35,36 +35,33 @@ I am motivated by the challenge and opportunity to create innovative and captiva
 :::: {.columns}
 ::: {.column width="50%"}
 ::: {.card}
-![](files/%20AD571_Project.pdf)
-
 **Project 2**
 
-The analysis on Sunset Part, New York. 
-[PDF file](files/%20AD571_Project.pdf)
+The analysis on Sunset Park, New York. 
+
+[⬇ Download PDF](files/AD571_Project.pdf)
 
 :::
 :::
 ::: {.column width="50%"}
 ::: {.card}
-![](files/JP_Licks_Analysis.pdf)
-
 **Project 3**
 
-Yelp Review Scraping on JP Licks in Boston and Centiment Analysis.
-[PDF file](files/JP_Licks_Analysis.pdf)
+Yelp Review Scraping on JP Licks in Boston and Sentiment Analysis.
+
+[⬇ Download PDF](files/JP_Licks_Analysis.pdf)
 :::
 :::
 ::::
+
 # CV {#cv}
 
 Here is my resume:
 
-<embed src="files/Resume.pdf" width="100%" height="600px" type="application/pdf">
-
-[Download PDF](files/Resume.pdf)
+[⬇ Download Resume PDF](files/Resume.pdf)
 
 # Contact {#contact}
 
 - 📧 [yy486@bu.edu](mailto:yy486@bu.edu)
-- 🔗 [LinkedIn](www.linkedin.com/in/yixuanyang98)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/yixuanyang98)
 - 🐙 [GitHub](https://github.com/Yixuan0000/Yixuan0000.github-io)
