@@ -4,12 +4,33 @@ title: "About Me"
 
 :::: {.columns}
 ::: {.column width="40%"}
-![Profile Picture](images/Dogpic.jpg)
+![](images/dogpic.jpg)
 :::
 
 ::: {.column width="60%"}
-# About Me
+## Yixuan Yang
 
-I am a Yixuan Yang.
+Startup Entrepreneur | 3D Artist | Project Manager | Multimedia Specialist | Data Analyst
+
+I am a former owner of a business that hosted in-person Murder Mystery Games, an animator who worked on the game *Yolked* at Hard Boiled Studio, and a current MS student in Global Marketing Management at Boston University.
+
+I hold a BS degree in Animation from Drexel University, and I have a passion for creating engaging and immersive experiences for different audiences using a variety of skills and tools, such as Marketing Technology, 3D creation tools, and data analysis.
+
+I am motivated by the challenge and opportunity to create innovative and captivating products and projects that can reach and delight a global audience.
 :::
 ::::
+
+## Education
+
+- **MS, Global Marketing Management** — Boston University *(in progress)*
+- **BS, Animation** — Drexel University
+
+## Skills
+
+| Category | Tools & Technologies |
+|---|---|
+| Programming | Python, JavaScript, R |
+| Backend / Automation | FastAPI, n8n, Railway, Node.js |
+| Data Analysis | Pandas, ggplot2, ML (sklearn) |
+| 3D & Creative | Blender, Maya, After Effects |
+| Marketing Tech | HubSpot, Quarto, SEO |
